@@ -46,11 +46,12 @@ Here is my plan:
    - [x] p1
    - [x] p2 (need to optimizing)
    - [x] p3
-   - [ ] p4
-- xv6 (2020)
+   - [x] p4
+- [ ] xv6 (2020)
 - minitorch
   - [x] p0
   - [x] p1
   - [ ] p2 
   - [ ] p3
   - [ ] p4
+- [ ] tiny-render
