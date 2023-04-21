@@ -24,7 +24,7 @@ Here is my plan:
 - [ ] CMU15213
 - [ ] UCB CS61C
 - Database
-- [ ] CMU15445 (Updating)
+- [x] CMU15445 (finishing)
 - OS
 - [ ] MIT6.S081
 - ML & DL
