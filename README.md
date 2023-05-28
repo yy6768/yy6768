@@ -28,7 +28,7 @@ Here is my plan:
 - OS
 - [ ] MIT6.S081
 - ML & DL
-- [ ] Stanford CS229 (Updating)
+- [X] Stanford CS229 (Finishing)
 - [ ] Stanford CS234
 - [ ] DL in Action 李沐 (Updating)
 - Compiler
