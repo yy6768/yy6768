@@ -21,12 +21,12 @@ Hi！:hand:I'm yy
 **I am now working on studying open classes at prestigious universities**
 Here is my plan:
 - architecture
-- [ ] CMU15213
+- [ ] CMU 15213
 - [ ] UCB CS61C
 - Database
 - [x] CMU15445 (finishing)
 - OS
-- [ ] MIT6.S081
+- [ ] MIT6.S081 (Updating)
 - ML & DL
 - [X] Stanford CS229 (Finishing)
 - [ ] Stanford CS234
@@ -34,8 +34,8 @@ Here is my plan:
 - Compiler
 - [ ] Stanford CS143 (Updating)
 - Computer Graphics
-- [ ] Games 101 (Updating)
-- [ ] Games 202
+- [X] Games 101 (Finishing/ Owe a final project)
+- [ ] Games 202 (Updating)
 - [ ] Games 103
 - [ ] Games 104
 
@@ -47,11 +47,14 @@ Here is my plan:
    - [x] p2 (need to optimizing)
    - [x] p3
    - [x] p4
-- [ ] xv6 (2020)
+- xv6 (2021)
+  - [X] p1-p4
+  - [ ] p5 (Updating)
+  - [ ] p6-p11 (waiting)  
 - minitorch
   - [x] p0
   - [x] p1
-  - [ ] p2 
+  - [x] p2 
   - [ ] p3
   - [ ] p4
 - [ ] tiny-render
