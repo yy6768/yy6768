@@ -20,7 +20,7 @@ Hi！:hand:I'm yy
 **I am now working on studying open classes at prestigious universities**
 Here is my plan:
 - architecture
-- [ ] CMU 15213 (Pause)
+- [ ] CMU 15213 (Pausing)
 - [ ] UCB CS61C
 - Database
 - [x] CMU15445 (finishing)
@@ -41,11 +41,7 @@ Here is my plan:
 ## Funny Lab
 **I love researching open source code**
 - bustub (2022 fall)
-   - [x] p0
-   - [x] p1
-   - [x] p2
-   - [x] p3
-   - [x] p4
+   - [x] p0-p4
    - Finished
 - xv6 (2021)
   - [X] p1-p11
@@ -54,12 +50,12 @@ Here is my plan:
   - [x] p0
   - [x] p1
   - [x] p2 
-  - [ ] p3
+  - [ ] p3 (Pause)
   - [ ] p4
 - [ ] tiny-render(updating)
 
 ## Book Plan
-** There my plan of reading cs books, welcome to communicate with me. Recently, I am obsessed in computer graphics. ** 
+**There my plan of reading cs books, welcome to communicate with me. Recently, I am obsessed in computer graphics.** 
 -  [X] C++ primer
 -  [ ] Effective C++
 -  [ ] Fundamentals of Computer Graphics (3rd Edition)
