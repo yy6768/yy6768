@@ -2,9 +2,10 @@
 
 Hi！:hand:I'm yy
 
-- :school:I'm a senior studying in ECNU
+- :school:I'm a senior studying in ECNU (May be going NJU soon)
 - :desktop_computer: My major is Software Engineering
-- email: email:1258720926@qq.com
+- :email: email:1258720926@qq.com
+- 📓:https://www.zhihu.com/people/huo-yan-yan-yi-51-15
 --------------
 ## My Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/yy6768/count.svg)
@@ -57,7 +58,8 @@ Here is my plan:
 ## Book Plan
 **There my plan of reading cs books, welcome to communicate with me. Recently, I am obsessed in computer graphics.** 
 -  [X] C++ primer
--  [ ] Effective C++
+-  [X] Effective C++
+-  [ ] Cuda C++ programming guide
 -  [ ] Fundamentals of Computer Graphics (3rd Edition)
 -  [ ] Real-Time Rendering (4th Edition)
 -  [ ] Pbrt (3th Edition)
