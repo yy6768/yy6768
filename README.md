@@ -1,8 +1,8 @@
 # Welcome！
 
-Hi！:hand:I'm yy
+Hi！:hand: I'm yy
 
-- :school:I'm a senior studying in ECNU (May be going NJU soon)
+- :school: I am currently a first-year graduate student at Nanjing University, having obtained my undergraduate bachelor's degree from East China Normal University.
 - :desktop_computer: My major is Software Engineering
 - :email: email:1258720926@qq.com
 - 📓:https://www.zhihu.com/people/huo-yan-yan-yi-51-15
@@ -31,12 +31,13 @@ Here is my plan:
 - [X] Stanford CS229 (Finishing)
 - [ ] Stanford CS231n 
 - [ ] DL in Action 李沐 (Updating)
+- [ ] MIT 6.5940 (Song Han)
 - Compiler
 - [ ] Stanford CS143 (Updating)
 - Computer Graphics
 - [X] Games 101 (Finishing/ Owe a final project)
-- [ ] Games 202 (Pause)
-- [ ] Games 103
+- [X] Games 202 (Finishing)
+- [ ] ~~Games 103~~ ( Physics is hard to learn for me)
 - [ ] Games 104
 
 ## Funny Lab
@@ -59,7 +60,7 @@ Here is my plan:
 **There my plan of reading cs books, welcome to communicate with me. Recently, I am obsessed in computer graphics.** 
 -  [X] C++ primer
 -  [X] Effective C++
--  [ ] Cuda C++ programming guide
+-  [X] Cuda C++ programming guide
 -  [ ] Fundamentals of Computer Graphics (3rd Edition)
 -  [ ] Real-Time Rendering (4th Edition)
 -  [ ] Pbrt (3th Edition)
